@@ -1,0 +1,1 @@
+this code is a simple code to apply basic list functions on python
